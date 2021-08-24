@@ -1,0 +1,10 @@
+body{background-color: gray;}
+
+header a {text-decoration: none; font-size: 30px; font-family: 'Anton', sans-serif; color: honeydew;}
+
+header a:hover{color: black; text-decoration: underline;}
+
+#error{display: flex; flex-direction: row;justify-content: center; margin-top: 150px; }
+
+h1{color: orangered; font-weight: 900; font-size: 100px; font-family: 'Russo One', sans-serif;}
+

@@ -1,0 +1,30 @@
+body{background-image: url(../Imagenes/Tienda/background\ 2.jpg); background-size: cover; background-position: bottom; background-repeat: no-repeat; margin: 0px;}
+
+header{background: linear-gradient(to bottom, rgba(87, 85, 85, 0.547) 42%, rgba(68,63,63,0.547) 100%, rgba(130,130,130,0.547) 100%, rgba(53,53,68,0.547) 100%); border: none;}
+
+#navbarNBA{color: floralwhite; font-family: 'Teko', sans-serif; font-weight: 800; font-size: 30px; text-decoration: none; }
+
+#navbarNBA ul li:hover{color: black;transform: scale(1.2); text-decoration: underline;transform: skew(20deg);}
+
+.rotate:hover {transform: rotateY(45deg); cursor: pointer;}
+
+nav{background: linear-gradient(rgb(116, 114, 114),rgb(53, 53, 53),rgb(41, 40, 40)) ;}
+
+#Portada{width: 100%;height: 475px;clear: both; overflow: hidden;}
+
+h1{color: ghostwhite;font-size: 250px; font-weight: 800;text-align: center;background-image: url(../Imagenes/tienda-bg2.jpg); background-repeat: no-repeat; background-position: bottom; background-size: cover; background-attachment: fixed;width: 100%; height: 400px; margin: 0%;padding: 0; font-family: 'Otomanopee One', sans-serif; text-align: center;}
+
+
+#Catalogo{margin: 5px;padding: 5px; }
+
+aside div img{width: 150px; height: 150px; margin: 1px; }
+
+
+aside{width: 100%; height: 100%;  display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; }
+
+aside div{margin: 20px 15px; border: 2px solid white; border-radius: 25%; text-align: center; background-color:  rgba(238, 231, 231, 0.4);  color: black solid; font-weight: 600; width: 200px; height: 285px;}
+
+p{text-align: center; margin: 0px;}
+
+
+

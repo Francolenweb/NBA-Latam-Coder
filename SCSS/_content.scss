@@ -1,0 +1,20 @@
+
+main{background-color: $bg-div; overflow: hidden;}
+
+#campeon{background-color: $bg-div;}
+
+.titulo_dark{
+	font-family: $fontStaat;
+	font-size: 50px;
+	text-align: center;
+	color: $fontColorWhite;
+	padding: 0.5em
+}
+
+.campeon_equipo{background-color: $bg-gray; padding: $p; overflow: hidden;}
+
+.campeon_titulo{ font-family: $fontCinzel; color: yellow; font-size: 40px;text-align: center;}
+
+.campeon_desc{font-family: $fontPat; color: $fontColorWhite;font-size: 25px; padding: 2px;}
+
+.campeon_foto{width: 500px;height: 350px; padding: 25px;}

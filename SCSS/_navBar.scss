@@ -1,0 +1,26 @@
+nav{
+	background: linear-gradient(rgb(116, 114, 114),rgb(53, 53, 53),rgb(41, 40, 40));
+	color: black;
+	padding:1em;
+	font-weight: 800; 
+	font-size: 30px; 
+	text-decoration: none;
+
+	ul{
+		text-align: center;
+	}
+
+	li{
+		text-decoration: none;
+	}
+
+	li:hover{color: black;transform: scale(1.2); text-decoration: underline;transform: skew(20deg);}
+
+	a{
+		text-decoration: none;
+		font-family: $fontTecko;
+		font-size: $fontSizeMedium;
+	}
+}
+
+.rotate:hover {transform: rotateY(45deg); cursor: pointer;}

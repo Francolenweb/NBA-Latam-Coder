@@ -1,0 +1,15 @@
+#navbarNBA{color: floralwhite; font-family: 'Teko', sans-serif; font-weight: 800; font-size: 30px; text-decoration: none; }
+
+#navbarNBA ul li:hover{color: black;transform: scale(1.2); text-decoration: underline;transform: skew(20deg);}
+
+.rotate:hover {transform: rotateY(45deg); cursor: pointer;}
+
+
+nav{background: linear-gradient(rgb(116, 114, 114),rgb(53, 53, 53),rgb(41, 40, 40)) ;}
+
+main{padding-top: 25px;}
+
+
+
+h1{background-color: rgba(126, 126, 126, 0.76);  text-align: center;}
+

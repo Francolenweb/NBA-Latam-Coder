@@ -1,0 +1,25 @@
+
+
+
+#navbarNBA{color: floralwhite; font-family: 'Teko', sans-serif; font-weight: 800; font-size: 30px; text-decoration: none; }
+
+#navbarNBA ul li:hover{color: black;transform: scale(1.2); text-decoration: underline;transform: skew(20deg);}
+
+.rotate:hover {transform: rotateY(45deg); cursor: pointer;}
+
+nav{background: linear-gradient(rgb(116, 114, 114),rgb(53, 53, 53),rgb(41, 40, 40)) ;}
+
+main{display: flex;flex-direction: column; clear: both;}
+
+h1{color: snow; text-align: center; font-family: 'Otomanopee One', sans-serif; margin: 25px;}
+
+h2{font-family: 'Roboto Mono', monospace; font-size: 35px; font-weight: 900;margin: 0px; word-wrap: break-word; color: blue;}
+
+p{font-family: 'Lobster', cursive;font-size: 20px; font-weight: 200px;}
+
+main div{width: 100%; height: 400px;  margin: 5px;  display: flex; justify-content: space-between;}
+
+#fondo{height: 500px; background: linear-gradient(rgb(41, 40, 40), rgb(53, 53, 53), rgb(116, 114, 114)); color: aliceblue;  }
+
+
+

@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Teko:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Staatliches&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
+* {
+  margin: 0;
+  padding: 0; }
+
+nav {
+  background: linear-gradient(#747272, #353535, #292828);
+  color: black;
+  padding: 1em;
+  font-weight: 800;
+  font-size: 30px;
+  text-decoration: none; }
+  nav ul {
+    text-align: center; }
+  nav li {
+    text-decoration: none; }
+  nav li:hover {
+    color: black;
+    transform: scale(1.2);
+    text-decoration: underline;
+    transform: skew(20deg); }
+  nav a {
+    text-decoration: none;
+    font-family: "Teko", sans-serif;
+    font-size: 1em; }
+
+.rotate:hover {
+  transform: rotateY(45deg);
+  cursor: pointer; }
+
+main {
+  background-color: #1f201f;
+  overflow: hidden; }
+
+#campeon {
+  background-color: #1f201f; }
+
+.titulo_dark {
+  font-family: "Staatliches", cursive;
+  font-size: 50px;
+  text-align: center;
+  color: whitesmoke;
+  padding: 0.5em; }
+
+.campeon_equipo {
+  background-color: rgba(97, 96, 96, 0.822);
+  padding: 1em;
+  overflow: hidden; }
+
+.campeon_titulo {
+  font-family: "Cinzel", serif;
+  color: yellow;
+  font-size: 40px;
+  text-align: center; }
+
+.campeon_desc {
+  font-family: "Patrick Hand", cursive;
+  color: whitesmoke;
+  font-size: 25px;
+  padding: 2px; }
+
+.campeon_foto {
+  width: 500px;
+  height: 350px;
+  padding: 15px; }

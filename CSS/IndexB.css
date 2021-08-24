@@ -1,0 +1,44 @@
+nav{margin-left: 5px}
+
+#navbarNBA{color: floralwhite; font-family: 'Teko', sans-serif; font-weight: 800; font-size: 30px; text-decoration: none; }
+
+#navbarNBA ul li:hover{color: black;transform: scale(1.2); text-decoration: underline;transform: skew(20deg);}
+
+.rotate:hover {transform: rotateY(45deg); cursor: pointer;}
+
+main{color: aliceblue;box-sizing: border-box; clear: both;position: relative; ; min-height: 75vh; margin: 0px;  }
+
+main section img{width: 300px; height: 350px;align-items: center;display: flex;}
+
+#Portada{display: flex; flex-direction: column; align-items: center; justify-content: center;}
+
+section{display: flex; align-items: flex-start; justify-content: flex-start;}
+
+aside{width: 100%; margin-top: 50px;}
+
+#videoBack{height: 30vh; }
+
+iframe{ position: absolute; z-index: -1; bottom: 0px; left: 0; height: 100%; width: 100%;}
+
+h1{font-family: 'Bebas Neue', cursive; font-size: 70px; text-align: center;}
+
+footer{ background-image: linear-gradient(to top, rgb(86, 96, 105) 0%, rgba(12,14,16,1) 100%); text-align: center; overflow: hidden; }
+
+h3{color: yellow; font-size: 75px; margin: 0; padding: 0; font-family: 'Bebas Neue', cursive;}
+
+h3 p{color: rgba(255, 255, 72, 0.808); font-size: 40px; font-family: 'Lobster', cursive; margin: 3px;}
+
+#scroll{display: flex; justify-content: flex-end;}
+
+#scroll a{padding-right: 35px; font-family: 'Otomanopee One', cursive; font-size: 25px; color: yellow; font-weight: 500; text-decoration: none; }
+
+aside aside a p{background-color: black;}
+
+#Redes{list-style-type: none;}
+
+
+footer nav li{padding: 10px; margin: 15px; display: inline-block;}
+
+footer nav li:hover{transform: scale(1.2)}
+
+footer img{width: 75px; height: 75px; border-radius: 40%; } 
