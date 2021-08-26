@@ -5,7 +5,7 @@
 .rotate:hover {transform: rotateY(45deg); cursor: pointer;}
 
 
-nav{background: linear-gradient(rgb(116, 114, 114),rgb(53, 53, 53),rgb(41, 40, 40)) ;}
+nav{background: linear-gradient(rgb(116, 114, 114),rgb(53, 53, 53),rgb(41, 40, 40)) ; padding-left: 20px;}
 
 main{padding-top: 25px;}
 
